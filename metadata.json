@@ -1,0 +1,9 @@
+{
+  "name": "Mahi Smarter - All-in-One AI Studio",
+  "description": "A comprehensive AI-powered toolbox for education, health, agriculture, environment, safety, and creation. Designed for students, farmers, and the community.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
